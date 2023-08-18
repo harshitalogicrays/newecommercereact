@@ -1,0 +1,11 @@
+.navlink{
+    text-decoration: none;
+    color:gainsboro;
+}
+
+.active{
+    color:white;
+}
+.nav-link:hover{
+    color:white
+}
